@@ -34,7 +34,7 @@
 //TODO Define number of smallest units in one coin
 #define COIN                                            
 //TODO Define default fee for transactions
-#define DEFAULT_FEE                                     
+#define DEFAULT_FEE                                     0
 
 //TODO Define preferred block's target time
 #define DIFFICULTY_TARGET                               30 // seconds
